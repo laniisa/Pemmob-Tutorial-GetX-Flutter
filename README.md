@@ -1,16 +1,11 @@
-# tutorial_getx
+# Pemmob-Tutorial-GetX-Flutter
+Tugas Mata Kuliah Pemrograman Mobile
 
-A new Flutter project.
+Nama  : SOLANI
+NIM   : H1D022033
 
-## Getting Started
+![login-page](login-page.jpg)
 
-This project is a starting point for a Flutter application.
+![home-page](home-page.jpg)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![data-page](data-page.jpg)
